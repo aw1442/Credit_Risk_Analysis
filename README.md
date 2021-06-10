@@ -130,6 +130,4 @@ Easy Ensemble AdaBoost Classifier:
 
 ## Summary
 
-: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-
 As a summary, all of the six machine learning models had a high average precision of 0.99. The Easy Ensemble AdaBoost Classifier is recommended to be used based on the highest balanced accuracy score at around 0.945, the highest high-risk precision of 0.08, and the highest average weighted recall score of 0.94. 
